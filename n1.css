@@ -1,0 +1,14 @@
+#first{
+    color:rgb(21, 118, 216);
+    background-color: seashell;
+}
+#second{
+    color: cornflowerblue;
+    background-color: darkgreen;
+}
+#third{
+    color: rgba(239,160,24,0.7);
+}
+body{
+    background-color: #06BEE1;
+}

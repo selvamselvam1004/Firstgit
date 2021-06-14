@@ -1,0 +1,53 @@
+html{
+    font-size: 32px;
+}
+h2{
+    font-size: 40pt;
+    width: 400px;
+    height: 200px;
+    background-color: royalblue;
+}
+.inner{
+    width: 50%;
+    height: 50%;
+    background-color: brown;
+
+}
+.outer{
+    width: 500px;
+    height: 500px;
+    background-color:red;
+    
+}
+/* 
+1em=16px default browser value
+1em=base value
+
+*/
+.relative{
+
+    font-size: 3em;
+}
+.absolute{
+
+    font-size: 1rem;
+    font-family: cursive;
+    font-weight: 900;
+text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    width: 50vw;
+    height: 50vh;
+    
+    background-color: rosybrown;
+}
+.head{
+    width: 100vw;
+    height: 100vh;
+    background-color: seagreen;
+}
